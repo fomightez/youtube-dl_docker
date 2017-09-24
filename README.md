@@ -16,7 +16,7 @@ Includes:
 * [youtube-dl](https://rg3.github.io/youtube-dl/)
 * ffmpeg for conversion to mp3
 
-* See [the Dockerfile](https://github.com/fomightez/youtubedl_docker/blob/master/Dockerfile) for additional info.*  
+See [the Dockerfile](https://github.com/fomightez/youtubedl_docker/blob/master/Dockerfile) for additional info.
 
 Use
 ----
