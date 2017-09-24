@@ -2,8 +2,8 @@
 Dockerfile to build an image that runs youtube-dl
 
 
-Contents of built image
------------------------
+Contents
+--------
 
 Dockerfile to build an image that runs youtube-dl and does post-processing as described in uniquerockrz's and Jacob Tomlinson's answers at 
 https://askubuntu.com/questions/178481/how-to-download-an-mp3-track-from-a-youtube-video
