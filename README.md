@@ -21,7 +21,7 @@ See [the Dockerfile](https://github.com/fomightez/youtubedl_docker/blob/master/D
 Use
 ----
 
-    docker run -v /dls:/dls -it fomightez/youtubedl
+    docker run -it fomightez/youtubedl
    
 Then issue your commands such as:
 
