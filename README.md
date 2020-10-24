@@ -1,6 +1,8 @@
 # youtube-dl_docker
 Dockerfile to build an image that runs youtube-dl
 
+**NOTE: I suspect this won't work anymore.** See [here](https://twitter.com/egonwillighagen/status/1319980739082014720).
+
 
 Contents
 --------
